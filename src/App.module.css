@@ -1,0 +1,10 @@
+.main {
+	margin-top: -1.6875rem;
+
+	display: grid;
+	place-items: center;
+}
+
+.main section {
+	max-width: 46rem;
+}

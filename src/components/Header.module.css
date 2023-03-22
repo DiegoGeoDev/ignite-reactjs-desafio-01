@@ -1,0 +1,13 @@
+.header {
+	display: grid;
+	place-items: center;
+
+	height: 12.5rem;
+	width: 100%;
+
+	background: var(--gray-700);
+}
+
+.header img {
+	height: 3rem;
+}
